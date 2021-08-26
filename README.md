@@ -1,1 +1,1 @@
-# Hacker Rank - Practice / C
+1. Hacker Rank - Practice / C
